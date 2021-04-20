@@ -10,3 +10,5 @@ El projecte final de la asignatura de XML.
 ## Autors
 - Alejandro
 - Graciela 
+## Procedimientos 
+
