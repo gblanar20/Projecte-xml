@@ -6,3 +6,7 @@ El projecte final de la asignatura de XML.
 ## Desenvolupament
 * item 1
 * item2
+
+## Autors
+- Alejandro
+- Graciela 
