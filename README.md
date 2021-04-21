@@ -2,7 +2,7 @@
 
 El projecte final de la asignatura de XML.
 
-# Introduccio
+# Introducció
 ## Desenvolupament
 * item 1
 * item2
@@ -12,6 +12,4 @@ El projecte final de la asignatura de XML.
 - Graciela 
 
 
-## Procedimientos 
-
-kjfhgekhfgkdhf
+## Revisión hecha con VisualStudio.
