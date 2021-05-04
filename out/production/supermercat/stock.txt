@@ -1,0 +1,11 @@
+1 leche 0.75
+2 pan 0.55
+3 tomate 1.0
+4 patatas 0.80
+5 harina 0.95
+7 azucar 0.69
+8 cafe 2.95
+9 manteca 1.50
+10 naranjas 0.89
+-1
+
