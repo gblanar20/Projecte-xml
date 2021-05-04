@@ -7,3 +7,5 @@
 8 cafe 2.95
 9 manteca 1.50
 10 naranjas 0.89
+-1
+
